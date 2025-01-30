@@ -1,0 +1,33 @@
+{"workPlaceManagement": [
+    {
+        "location": "Cafe",
+        "workPlaceName": "Workplace1",
+        "employees": [
+            {
+                "jobTitle": "Barista",
+                "name": "John",
+                "timeAvailability": 1200,
+                "workplace": "WorkPlace name: Workplace1, Workplace location: Cafe, WorkPlace Employees: [Employee name: John, Job Title: Barista, time availability: 1200, Wage: 15.0, Employee name: Jake, Job Title: Manager, time availability: 1300, Wage: 18.0]",
+                "wage": 15
+            },
+            {
+                "jobTitle": "Manager",
+                "name": "Jake",
+                "timeAvailability": 1300,
+                "workplace": "WorkPlace name: Workplace1, Workplace location: Cafe, WorkPlace Employees: [Employee name: John, Job Title: Barista, time availability: 1200, Wage: 15.0, Employee name: Jake, Job Title: Manager, time availability: 1300, Wage: 18.0]",
+                "wage": 18
+            }
+        ]
+    },
+    {
+        "location": "Vancouver",
+        "workPlaceName": "IT",
+        "employees": [{
+            "jobTitle": "Manager",
+            "name": "Kevin",
+            "timeAvailability": 1500,
+            "workplace": "WorkPlace name: IT, Workplace location: Vancouver, WorkPlace Employees: [Employee name: Kevin, Job Title: Manager, time availability: 1500, Wage: 21.0]",
+            "wage": 21
+        }]
+    }
+]}
