@@ -7,6 +7,12 @@ On the other side, employees get a clear view of when they're scheduled to work 
 This project is of interest to me because it tackles a common problem in workplaces – the hassle of managing schedules. By making it easy for employers to organize and employees to access their schedules, it promises to improve communication, reduce conflicts, and create a more positive work environment. 
 
 
+<figure class="CPSC_210_project">
+  <iframe src="vid/test.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
+
+
 ### **User stories:**
 - I want to be able to add/remove employees to my workplace
 - I want to be able to add/remove workplaces
