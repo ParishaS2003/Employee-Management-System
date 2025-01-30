@@ -1,0 +1,40 @@
+{
+  "workPlaceManagement": [
+    {
+      "workPlaceName": "ABC Company",
+      "location": "123 Main St",
+      "employees": [
+        {
+          "name": "John Doe",
+          "jobTitle": "Manager",
+          "timeAvailability": 8,
+          "wage": 25.0
+        },
+        {
+          "name": "Jane Smith",
+          "jobTitle": "Assistant",
+          "timeAvailability": 6,
+          "wage": 20.0
+        }
+      ]
+    },
+    {
+      "workPlaceName": "XYZ Corporation",
+      "location": "456 Elm St",
+      "employees": [
+        {
+          "name": "Mike Johnson",
+          "jobTitle": "Technician",
+          "timeAvailability": 7,
+          "wage": 22.0
+        },
+        {
+          "name": "Emily Brown",
+          "jobTitle": "Clerk",
+          "timeAvailability": 5,
+          "wage": 18.0
+        }
+      ]
+    }
+  ]
+}

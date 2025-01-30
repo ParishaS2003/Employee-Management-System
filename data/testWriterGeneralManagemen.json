@@ -1,0 +1,17 @@
+{
+    "employees": [
+        {
+            "jobTitle": "Manager",
+            "name": "John Doe",
+            "timeAvailability": 8,
+            "wage": 25
+        },
+        {
+            "jobTitle": "Assistant",
+            "name": "Jane Smith",
+            "timeAvailability": 6,
+            "wage": 20
+        }
+    ],
+    "workPlaces": []
+}
