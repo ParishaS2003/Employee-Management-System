@@ -18,7 +18,7 @@ This project is of interest to me because it tackles a common problem in workpla
 - I want to be able to save my Workplace directory to file (if I so choose)
 - I want to be able to be able to load my workplace directory list from file (if I so choose)
 
-### **Instructions for Grader:**
+### **Instructions for Users:**
 - Add a workplace by clicking the "add a new workplace" button.
 - A display will open asking to add an employee to the workplace. fill in all the details and click save.
 - Choose if you want to add another employee to the same workplace otherwise exit the display.
@@ -44,14 +44,3 @@ Searched for the details of an employee.
 Sun Apr 07 14:47:14 PDT 2024
 Saved the workplaces to a JSON file.
 
-### **Phase 4: Task 3:**
-
-If I had more time to work on the project, one refactoring I might consider is
-enhancing the user interface by providing clearer prompts, organizing menu options
-more intuitively, and incorporating features like pagination.Additionally, I would
-break down the GUI class into smaller, more readable classes so it is easier to make any changes and understand the 
-app.
-I would also consider refactoring the JsonReader class so that it reads the Workplaces and the Employees as 
-separate Objects and writes data for them separately as well. One last thing that I would do 
-is make the GUI more usable in a real life scenario by making two separate
-interfaces: one for the Employers and one for the Employees. 
